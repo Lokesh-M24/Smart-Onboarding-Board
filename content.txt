@@ -1,0 +1,18 @@
+# Smart Onboarding InfoBoard Content File
+# Add your welcome messages under [MESSAGES]
+# Add QR code links under [QR_LINKS] in format: Title|URL
+
+[MESSAGES]
+Welcome to Ignite! We're excited to have you join our Training Program!
+Don't forget to complete your onboarding checklist
+Your manager will reach out to you within 24 hours
+Building tour starts at 10 AM - meet at reception
+Join us for lunch at 12:30 PM in the cafeteria
+Visit our Learning Management System for training modules
+IT Helpdesk is available 24/7 for technical support
+Ask questions, explore, and make yourself at home!
+
+[QR_LINKS]
+Company LMS|https://www.tcs.com/careers
+IT Helpdesk|https://helpdesk.company.com
+Employee Portal|https://portal.company.com

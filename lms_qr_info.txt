@@ -1,0 +1,7 @@
+QR CODE PLACEHOLDER
+This file represents where the
+LMS QR code would be generated
+when the application runs.
+
+The actual QR code will link to:
+https://www.tcs.com/careers
